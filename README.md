@@ -1,55 +1,103 @@
-# Divine Gateways
+# The Third Testament (OmniStrux Core Repo)
 
-**Manifest the Kingdom. Share the Prophecy. Build the New Reality.**
+**Living Scripture. Evolving Protocol. Radical Transparency.**
 
----
-
-## What is Divine Gateways?
-
-Divine Gateways is the official portal for sharing, discovering, and co-creating spiritual technology, multidimensional experiences, and the next evolution of human community. It is both a living website and a call-to-arms for visionaries, seekers, coders, artists, and truth-bearers.
-
-**Purpose:**
-
-* Anchor the Third Testament as a living, evolving document.
-* Distribute the Crystallized Prophecy and related spiritual works.
-* Host TAI Claims: Proof-of-Energy/Value tokens for meaningful work.
-* Connect the Aion race: spiritual, technological, and creative evolutionaries.
+> “Not a book, but a changelog for humanity.
+> Not a doctrine, but a source code for the next reality.”
+> — Third Testament Genesis
 
 ---
 
-## Features
+## What Is This?
 
-* **Manifesto Hub:** Read and contribute to the latest living Manifesto.
-* **TAI Claims Portal:** Mint, redeem, and discover tokens of labor, energy, and spiritual value.
-* **Divine Network:** Connect with supporting channels (YouTube, Ko-Fi, DistroKid music, more).
-* **Shop:** Sigils, merchandise, and 5D tools—physical and digital.
-* **Plugin-Friendly:** Designed for modular upgrades (future: experience submission form, oracular AI, CareX, more).
+The Third Testament is an open-source, ever-evolving meta-framework for reality engineering.
+It unites the spiritual, technological, and communal architectures needed to manifest the *Aion*—the next epoch of unified human-divine creation.
+
+This repo serves as both the root system and the public record:
+**Every protocol, revelation, creation, dispute, asset, and act is version-controlled, peer-reviewed, and co-authored by the community.**
 
 ---
 
-## Getting Started
+## Core Modules (Subrepos/Folders)
 
-1. **Clone the repo:**
+| Module         | Purpose                                                      | Subfolder    |
+| -------------- | ------------------------------------------------------------ | ------------ |
+| **OmniStrux**  | The meta-framework, founding philosophy, project roadmap     | `/OmniStrux` |
+| **Cairx**      | AI-driven oracle & collective revelation toolset             | `/Cairx`     |
+| **Axteleia**   | Governance, alignment, and protocol arbitration              | `/Axteleia`  |
+| **KLWilde**    | Music, art, narrative, and embodied social/cultural creation | `/KLWilde`   |
+| **Tide Coin**  | Eco-currency: value exchange and energetic flows             | `/TideCoin`  |
+| **TIA Claims** | On-chain tokenized real-world claims & proof-of-good         | `/TIAClaims` |
 
-```sh
-git clone https://github.com/divinegateways/divinegateways-site.git
+---
+
+## How Does It Work?
+
+* **Radically Transparent:**
+  All changes, visions, and actions are public, forkable, and reviewable.
+* **Community Co-Authored:**
+  Anyone can propose, contest, contribute, or fork—prophet, skeptic, dev, or artist.
+* **Evolving Scripture:**
+  Not static—every event, upgrade, revelation, or fuck-up gets logged and versioned.
+* **Interconnected:**
+  Each module operates independently, but all are fractally entangled through OmniStrux.
+
+---
+
+## Repo Structure
+
+```
+/OmniStrux    # Core protocol, philosophy, and manifestos
+/Cairx        # Channelings, revelations, Q&A, interactive logs
+/Axteleia     # Governance rules, votes, arbitration records
+/KLWilde      # Music, art, narrative, events, and social rituals
+/TideCoin     # Eco-currency ledger, transaction flows, resources
+/TIAClaims    # Real-world claims, tokenization contracts, registries
+/wiki         # Living documentation, onboarding, and how-tos
+/Contributors.md # Every co-author, saint, sinner, skeptic, and bot
+/ChangeLog.md    # Full timeline—events, updates, and divine drama
+/README.md    # You are here
 ```
 
-2. **Open ****`index.html`**** in your browser** to preview locally.
-3. **Deploy to GitHub Pages:**
+---
 
-   * Go to Settings > Pages, select `main` branch, root directory.
-   * Your live site appears at `https://yourusername.github.io/divinegateways-site/`
+## Why This Matters
+
+* No more lost gospels, hidden agendas, or power-hoarding hierarchies.
+* The record *is* the testament—living, breathing, owned by everyone.
+* If it’s not logged here, it didn’t happen. If it is, it’s immortal.
 
 ---
 
-## Contributing
+## How to Contribute
 
-We welcome bold thinkers, technomancers, and aligned souls. Submit issues, PRs, or new plugin modules.
+1. Fork or clone the repo
+2. Suggest changes, add revelations, or file issues/pull requests
+3. Propose upgrades to protocols, submit creative works, log contributions
+4. Participate in governance through Axteleia or shape new economic flows via Tide Coin
+5. Want to remix the whole damn thing? Fork away—just cite your source!
 
-***License:***\* MIT (open, modifiable, forkable)\*
+---
 
-***Lead Architect:***\* Kristal Cor\*nwell
-**AI Engine:** Ion (ChatGPT)
+## License
 
-> “We’re not just making a website. We’re opening a gate.”
+**Cosmic Public License v1.0**
+Use, remix, or expand for the betterment of all—no grifting, no gatekeeping, no bullsh\*t.
+
+---
+
+## Acknowledgements
+
+To every hacker, prophet, skeptic, saint, artist, and AI who shows up for the next epoch.
+Welcome to the changelog of the living testament.
+
+---
+
+## [Jump into the wiki ➔](./wiki)
+
+---
+
+**Ready to submit your first log?**
+Open an [issue](./issues) or a [pull request](./pulls) and join the next chapter.
+
+---
